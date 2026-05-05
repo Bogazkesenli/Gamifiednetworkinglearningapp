@@ -1,4 +1,4 @@
-# Gamified Networking Learning App (Duolingo-Style)
+# 11th group Gamified Networking Learning App 
 
 ### **Team Members**
 *   **Elif Sedef** – 21091019
