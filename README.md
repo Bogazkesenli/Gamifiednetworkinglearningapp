@@ -3,9 +3,9 @@
 ### **Team Members**
 *   **Elif Sedef** – 21091019
 *   **Emirhan Duru** – 22091019
-*   **Umut Ercan**
+*   **Umut Ercan** - 22091021
 *   **Öykü Boğazkesenli**
-*   **Sami Fathi Karaveli**
+*   **Sami Fathi Karaveli** - 22091032
 
 **Repository:** [github.com/Bogazkesenli/Gamifiednetworkinglearningapp](https://github.com/Bogazkesenli/Gamifiednetworkinglearningapp)
 
