@@ -4,7 +4,7 @@
 *   **Elif Sedef** – 21091019
 *   **Emirhan Duru** – 22091018
 *   **Umut Ercan** - 22091021
-*   **Öykü Boğazkesenli**
+*   **Öykü Boğazkesenli** -22091002
 *   **Sami Fathi Karaveli** - 22091032
 
 **Repository:** [github.com/Bogazkesenli/Gamifiednetworkinglearningapp](https://github.com/Bogazkesenli/Gamifiednetworkinglearningapp)
