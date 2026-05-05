@@ -2,7 +2,7 @@
 
 ### **Team Members**
 *   **Elif Sedef** – 21091019
-*   **Emirhan Duru** – 22091019
+*   **Emirhan Duru** – 22091018
 *   **Umut Ercan** - 22091021
 *   **Öykü Boğazkesenli**
 *   **Sami Fathi Karaveli**
