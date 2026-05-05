@@ -5,7 +5,7 @@
 *   **Emirhan Duru** – 22091018
 *   **Umut Ercan** - 22091021
 *   **Öykü Boğazkesenli**
-*   **Sami Fathi Karaveli** 22091032
+*   **Sami Fathi Karaveli** - 22091032
 
 **Repository:** [github.com/Bogazkesenli/Gamifiednetworkinglearningapp](https://github.com/Bogazkesenli/Gamifiednetworkinglearningapp)
 
