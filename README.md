@@ -8,7 +8,8 @@
 *   **Sami Fathi Karaveli** - 22091032
 
 **Repository:** [github.com/Bogazkesenli/Gamifiednetworkinglearningapp](https://github.com/Bogazkesenli/Gamifiednetworkinglearningapp)
-* **Note:** Screenshots attached in 'ss.zip'.
+
+**Note:** Screenshots attached in 'ss.zip'.
 
 ---
 
