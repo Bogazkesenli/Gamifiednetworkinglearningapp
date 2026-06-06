@@ -76,7 +76,7 @@ export default function QuizScreen() {
       <View className="flex-1 bg-slate-50 items-center justify-center p-6">
         <Text className="text-6xl mb-6">💔</Text>
         <Text className="text-3xl font-bold text-slate-800 mb-3 text-center">Out of Hearts!</Text>
-        <Text className="text-slate-500 text-lg text-center mb-10 max-w-sm leading-relaxed">
+        <Text className="text-slate-500 text-lg text-center mb-6 max-w-sm leading-relaxed">
           You made too many mistakes and ran out of hearts. Refill them on the map to continue learning.
         </Text>
         <Pressable 

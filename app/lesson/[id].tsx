@@ -59,9 +59,9 @@ export default function LessonScreen() {
           </View>
         </View>
 
-        <View className="bg-white rounded-3xl shadow-sm p-8 border border-slate-100">
+        <View className="bg-white rounded-3xl shadow-sm p-6 border border-slate-100">
           <Text className="text-3xl font-bold text-blue-600 mb-6">{currentStep.title}</Text>
-          <Text className="text-slate-700 text-lg leading-relaxed mb-8">
+          <Text className="text-slate-700 text-lg leading-relaxed mb-6">
             {currentStep.content}
           </Text>
 

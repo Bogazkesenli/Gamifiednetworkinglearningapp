@@ -75,11 +75,11 @@ export default function AuthScreen() {
       className="flex-1 bg-slate-50"
     >
       <ScrollView contentContainerStyle={{ flexGrow: 1, justifyContent: 'center', alignItems: 'center', padding: 24 }} keyboardShouldPersistTaps="handled">
-        <View className="w-full max-w-md bg-white p-8 rounded-3xl shadow-sm border border-slate-100">
+        <View className="w-full max-w-md bg-white p-6 rounded-3xl shadow-sm border border-slate-100">
           <Text className="text-4xl font-black text-blue-600 mb-2 text-center">NetPath</Text>
-          <Text className="text-slate-500 text-center mb-8 text-lg">Learn Computer Networking</Text>
+          <Text className="text-slate-500 text-center mb-6 text-lg">Learn Computer Networking</Text>
 
-          <View className="flex-row bg-slate-100 rounded-xl p-1 mb-8">
+          <View className="flex-row bg-slate-100 rounded-xl p-1 mb-6">
             <Pressable 
               onPress={() => { setIsLogin(false); setErrorMsg(''); }}
               className={`flex-1 py-3 rounded-lg items-center ${!isLogin ? 'bg-white shadow-sm' : ''}`}

@@ -45,14 +45,14 @@ export default function SummaryScreen() {
 
   return (
     <View className="flex-1 bg-slate-50 items-center justify-center px-6">
-      <View className="w-full max-w-sm bg-white rounded-3xl shadow-sm p-10 border border-slate-100 items-center">
-        <Text className="text-6xl mb-6">🎉</Text>
-        <Text className="text-3xl font-bold text-blue-600 mb-2">Level {levelId}</Text>
-        <Text className="text-slate-500 text-center mb-8 text-lg">
+      <View className="w-full max-w-sm bg-white rounded-3xl shadow-sm p-6 border border-slate-100 items-center">
+        <Text className="text-6xl mb-4">🎉</Text>
+        <Text className="text-2xl font-bold text-slate-800 mb-2">Level Complete!</Text>
+        <Text className="text-slate-500 text-center mb-6 text-lg">
           Great job completing this level!
         </Text>
 
-        <View className="flex-row w-full justify-between gap-4 mb-8">
+        <View className="flex-row w-full justify-between gap-4 mb-6">
           <View className="flex-1 bg-green-50 rounded-2xl p-4 items-center border border-green-100">
             <Text className="text-4xl font-bold text-green-600 mb-1">{correctCount}</Text>
             <Text className="text-green-700 font-medium text-sm">Correct</Text>
