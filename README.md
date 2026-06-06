@@ -17,7 +17,7 @@ Welcome to **NetPath**, a mobile-first learning application designed to teach Co
 
 Built entirely with modern **React Native** tooling (Expo, NativeWind, Zustand), NetPath transforms dry technical concepts into engaging, bite-sized challenges.
 
-![NetPath Demo Placeholder](https://via.placeholder.com/800x400?text=NetPath+App)
+![NetPath Demo Placeholder](https://placehold.co/800x400/2563eb/ffffff?text=NetPath+App)
 
 ## 🎯 Features
 
