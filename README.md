@@ -9,6 +9,8 @@
 
 **Repository:** [github.com/Bogazkesenli/Gamifiednetworkinglearningapp](https://github.com/Bogazkesenli/Gamifiednetworkinglearningapp)
 
+**Note:** Screenshots attached in 'ss.zip'.
+
 ---
 
 Welcome to **NetPath**, a mobile-first learning application designed to teach Computer Networking fundamentals through interactive, gamified micro-lessons.
