@@ -1,6 +1,6 @@
 # Project Attributions and Resources
 
-This document outlines all the external resources, academic references, libraries, and assets used in the development of the Gamified Networking Learning App.
+This  document outlines all the external resources, academic references, libraries, and assets used in the development of the Gamified Networking Learning App.
 
 ## 📑 Table of Contents
 1. [Academic & Pedagogical References](#1-academic--pedagogical-references)
