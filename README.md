@@ -10,6 +10,7 @@
 **Repository:** [github.com/Bogazkesenli/Gamifiednetworkinglearningapp](https://github.com/Bogazkesenli/Gamifiednetworkinglearningapp)
 
 **Note:** Screenshots attached in 'ss.zip'.
+**Note:** Advertisement video attached in 'video.zip'.
 
 ---
 
